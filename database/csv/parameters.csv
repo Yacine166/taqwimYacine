@@ -1,0 +1,6 @@
+﻿id,name,name_fr,name_ar,slug,created_at,updated_at,options,options_fr,options_ar
+5,Activity sector,Secteur d'activité,قطاع النشاط,activity_sector,2023-11-15T01:45:01.000000Z,2023-11-20T16:00:47.000000Z,"['Goods production','Craft production establishments','Wholesale distribution','Imports','Retail distribution','Services,Exports']","['Production de biens','Établissements de production artisanale','Distribution en gros','Importation','Distribution au détail','Services','Exportation']","['الإنتاج التجاري','مؤسسات الإنتاج الحرفي','التوزيع بالجملة','الاستيراد','التوزيع بالتجزئة','الخدمات','التصدير']"
+4,Nature,Nature,طبيعة,person,2023-11-15T01:45:01.000000Z,2023-11-21T12:58:29.000000Z,"['Individual','Moral']","['Physique','Morale']","['طبيعي','معنوي']"
+3,Cacobatph,Cacobatph,كاكوبات,cacobatph,2023-11-15T01:45:01.000000Z,2023-11-15T14:17:29.000000Z,"['Affiliated','Not Affiliated']","['Affilié','Non Affilié']","['منتمي','غير منتمي']"
+2,Tax regime,Régime fiscal,نظام الضريبي,tax_ability,2023-11-15T01:45:01.000000Z,2023-11-21T12:56:07.000000Z,"['Flate-rate','Real']","['Forfaitaire','Réel']","['ثابت','حقيقي']"
+1,Number of employees,Nombre d'employés,عدد الموظفين,employees_number,2023-11-15T01:45:01.000000Z,2023-11-19T14:07:41.000000Z,"['0-5','6-9','10-50','51-100','100+']","['0-5','6-9','10-50','51-100','100+']","['0-5','6-9','10-50','51-100','100+']"
